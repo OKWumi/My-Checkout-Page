@@ -303,6 +303,9 @@ margin: 50px 0px 40px 30px ;
 .about {
 	padding-bottom: 33px;
 }
+	.bag_info h3, .shoes_info h3 {
+ font-size: 13px;
+}
 .goods {
 	flex-basis: 32%;
 	align-self: center;
