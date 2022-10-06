@@ -161,9 +161,6 @@ form {
  form {
 	width: 100%;
 }
-#fullName text {
-color: #4E5150;
-}
 form label {
 	margin-bottom: 15px;
  font-family: 'Montserrat', sans-serif;
@@ -262,14 +259,14 @@ form .input span, .form select span {
 }
 .submit {
 	display: flex;
-	justify-content: center;
-	align-items: flex-end;
+	justify-content: flex-end;
+	align-items: center;
 	flex-flow: row nowrap;
 	flex-basis: 100%;
 }
 .submit input {
 	flex-basis: 30%;
-	align-self: flex-end;
+	align-self: center;
 	background-color: #F2994A;
   color:white;
   font-size: 16px;
