@@ -24,7 +24,7 @@ header h1 {
 	color: #4E5150;
 }
 .goods {
-	background-color: #e2e2e2;
+	background-color: #f2f2f2;
 	align-items: center;
 	justify-content: space-around;
 	padding-inline: 20px;
@@ -303,8 +303,8 @@ margin: 50px 0px 40px 30px ;
 	flex-flow: row-reverse nowrap;
 	flex-basis: 100%;
 }
-.bag img, .shoes img {
-      height: 140px;
+.about {
+	padding-bottom: 30px;
 }
 .goods {
 	flex-basis: 32%;
