@@ -76,12 +76,14 @@ font-weight: 700;
  font-size: 12px;
  color: #F2994A;
  font-weight: 700;
+color: #323232;
 }
 .oldP {
 	margin-right: 10px;
 	font-family: 'Montserrat', sans-serif;
  font-size: 12px;
  font-weight: 700;
+color: #323232;
 }
 .quantities {
   border: 1px solid #bdbdbd;
@@ -117,12 +119,14 @@ font-weight: 700;
 	justify-content: center;
 	font-size: 17px; 
 	width: 30px;
+	color: #323232;
 	height: 20px;
 	align-items: center;
 	background-color: #f2f2f2;
 }
 .details {
 	padding: 10px 20px 10px;
+	color: #323232;
 }
 .shipping, .total {
 	display: flex;
@@ -135,6 +139,7 @@ font-weight: 700;
 	line-height: 40px;
 	align-self: flex-start;
 	font-family: 'Montserrat', sans-serif;
+	color: #323232;
  font-size: 15px;
 
 }
@@ -291,7 +296,7 @@ body {
 	margin-inline: auto;
 	}
 header {
-margin: 50px 0px 40px 30px ;
+margin: 50px 0px 40px 27px ;
 }
 .sections {
 	display: flex;
@@ -302,6 +307,15 @@ margin: 50px 0px 40px 30px ;
 }
 .about {
 	padding-bottom: 33px;
+}
+.shipping h3, .total h3 {
+	
+	color: #323232;
+ font-size: 13px;
+
+}
+.shipping p, .total p {
+	color: #323232;
 }
 	.bag_info h3, .shoes_info h3 {
  font-size: 13px;
